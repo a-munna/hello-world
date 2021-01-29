@@ -1,2 +1,2 @@
 # hello-world
-I got mad drip 
+hello world
